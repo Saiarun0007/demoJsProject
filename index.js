@@ -11,5 +11,5 @@ figlet("Shanmukh", function (err, data) {
   console.log(data.rainbow);
 console.log(data.green.bgGrey);
 console.log(data.yellow.bgRed);
-console.log("Mohan KAKI".red);
+console.log("Mohan KAdali".red);
 });
